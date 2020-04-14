@@ -38,5 +38,5 @@ elif [ $obese_2 -eq 1]
 then
 	echo "$name, You are overweight and at risk of getting obese."
 else 
-    echo "$name, You are overweight and at a high risk of grtting obese"
+    echo "$name, You are overweight and at a high risk of getting obese"
 fi
